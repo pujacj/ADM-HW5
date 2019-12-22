@@ -6,4 +6,5 @@ This is the repository for Homework 5 of Algorithmic Methods of Data Mining of G
 3. Dany Khalil
 
 The repository contains:
-1. .py and .pynb(for better understanding) files of the functionalities.
+1. .py and .pynb (for better understanding of visualization) files of the functionalities.
+2. An html file for the visualization of first functionality.
